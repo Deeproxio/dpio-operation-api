@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Deeproxio.OperationApi.Controllers
+namespace Deeproxio.FileManagementApi.Controllers
 {
     [Route("api/[controller]")]
     public class ValuesController : Controller
